@@ -1,0 +1,7 @@
+tipos (spa ssr ssg)
+yarn add typescript @types/react @types/node -D
+yarn add sass
+yarn date-fns
+yarn add json-server -D
+yarn build
+yarn add rc-slider
